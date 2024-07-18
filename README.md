@@ -183,7 +183,7 @@ SELECT * FROM Customter_with_country WHERE RowNo <= 1
 
 
 ## Project schema
-https://ibb.co/8cRFm63
+![Schema](https://github.com/user-attachments/assets/fbe33d46-491b-458f-88f1-9827b95d9d86)
 
 ## Github
 https://github.com/dashboard
